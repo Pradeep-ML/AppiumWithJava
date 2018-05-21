@@ -20,6 +20,7 @@ public class Android_PhoneLookp {
 		caps.setCapability("deviceConnectDevice", "49b82db4-7ceb-4d4f-9040-31691a944daa");
 		caps.setCapability("appPackage", "com.android.controls");
 		caps.setCapability("appActivity", "com.android.controls.SplashScreen");
+		//caps.setCapability("browserName", "Chrome");
 		caps.setCapability("newCommandTimeout","120");
 		
 		AppiumDriver driver = new AppiumDriver (new URL("http://10.4.6.32/Appium"),caps);
