@@ -36,8 +36,5 @@ Use CTRL+O to save changes and CTRL+X to exit. CTRL+O->Enter->CTRL+X
 ```
 ### Further steps:
 * Download and Install Eclipse IDE. It is the most widely used Java IDE. https://www.eclipse.org/downloads/.
-* Download Appium & Selenium Java client library and extract them in a separate location.
-** Appium Java Client library: http://appium.io/downloads.html
-** Selenium Java Clicnt library: https://www.seleniumhq.org/download/
-*** selenium-server-standalone-<Version No>.jar
-*** selenium-java-<Version No>.zip
+* Download the Project from here & import it into the Eclipse workspace.
+
